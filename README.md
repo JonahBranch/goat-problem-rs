@@ -10,7 +10,7 @@ The solution is found using the bisection method: https://en.wikipedia.org/wiki/
 
 It was fairly easy to implement and should work with other continuous ```fn(f64) -> f64``` functions if you want to try it on something else
 
-numberphile video: https://www.youtube.com/watch?v=ZdQFN2XKeKI&t=122s
+numberphile video: https://www.youtube.com/watch?v=ZdQFN2XKeKI
 
 the program can be ran with just ```cargo run```, there are no command line arguments at the moment
 
