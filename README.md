@@ -4,3 +4,5 @@ Saw the first few minutes of "The Goat Problem" numberphile video and thought it
 The approximate solution is found using bisection search
 
 numberphile video: https://www.youtube.com/watch?v=ZdQFN2XKeKI&t=122s
+
+the program can be ran with just ```cargo run```, there are no command line arguments at the moment
